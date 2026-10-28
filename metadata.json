@@ -1,0 +1,6 @@
+{
+  "name": "Hazrat Gaibanshah Peer (R.A.) Dargah",
+  "description": "A Place of Faith, Peace, Spirituality and Blessings for All. Annual Urs Mubarak on 10 & 11 Safar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
